@@ -1,1 +1,1 @@
-# LangChain Introduction and Implemnting RAG using LangChain
+# LangChain Introduction and Implementing RAG
